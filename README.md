@@ -1,3 +1,7 @@
+Best Neighborhood: House Prices, crime, location.
+Bustos- Location
+Paul- House Prices
+Cross- Crime
 
 Each group’s Github repository should contain:
 1. A Combined notebook / Presentation Notebook with a conclusion paragraph from each group member.
