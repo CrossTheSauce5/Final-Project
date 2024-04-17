@@ -1,4 +1,4 @@
-Best Neighborhood: House Prices, crime, location.
+Best Neighborhood: Density of Fast Food Places, crime, Air Quality.
 Bustos- Location
 Paul- House Prices
 Cross- Crime
