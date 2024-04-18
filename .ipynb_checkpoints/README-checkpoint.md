@@ -14,5 +14,3 @@ Crime:
     Description: 
 Fast Food Restaurant:
     Description: 
-
-Overview: This repository is for the final project for CMPINF 0010 where we are tasked with finding the "best" nieghborhood in Pittsburgh, but the metric for "best" was 
