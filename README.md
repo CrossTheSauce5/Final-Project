@@ -3,7 +3,12 @@ Team Members:
     Austin Bustos
         asb218@pitt.edu
     Paul Santo
+<<<<<<< HEAD
+        
+        
+=======
         pts25@pitt.edu
+>>>>>>> fd776daadf3dc5b4e29fc7540563dc5fceee367b
     Cross Vargas
         cav123@pitt.edu
 Description and Links to Datasets:
